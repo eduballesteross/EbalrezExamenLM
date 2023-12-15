@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+caption{
+	text-align: center;
+border: solid black 5px;
+letter-spacing: 2px;
+}
+
+.filaUno{
+	background-color: blue;
+	border: 1q;
+	
+}
+.filaDos{
+	background-color: aqua;
+}
+.filaCuatro{
+	
+	background-color: grey;
+	color: white;
+}
+
+table{
+
+}
+
+table {
+	border: solid black;
+}
